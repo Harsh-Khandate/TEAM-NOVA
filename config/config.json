@@ -1,0 +1,14 @@
+{
+  "userSettings": {
+    "artifactReviewMode": "ARTIFACT_REVIEW_MODE_TURBO",
+    "autoExecutionPolicy": "CASCADE_COMMANDS_AUTO_EXECUTION_OFF",
+    "enableTerminalSandbox": false,
+    "globalPermissionGrants": {
+      "allow": [
+        "command(Test-Path \"C:\\Program Files\\nodejs\"; Test-Path \"C:\\Program Files (x86)\\nodejs\"; Test-Path \"$env:LOCALAPPDATA\\Programs\\node\")"
+      ]
+    },
+    "nonWorkspaceFileAccessPolicy": "AGENT_SETTING_POLICY_ALLOW",
+    "remoteControlHostname": "desktop-hsd0xxx-silent-zenith"
+  }
+}
